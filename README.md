@@ -4,7 +4,7 @@ A basic sample which shows how to perform the CRUD actions in Grid. Using Url Ad
 
 **Documentation**:
 * https://ej2.syncfusion.com/aspnetcore/documentation/grid/data-binding/#datatable-with-crud-operations
-* https://ej2.syncfusion.com/aspnetcore/documentation/grid/edit/#url-adaptor
+* https://ej2.syncfusion.com/aspnetcore/documentation/grid/editing/persisting-data-in-server#using-url-adaptor
 
 **Getting Started**:
 * https://ej2.syncfusion.com/aspnetcore/documentation/grid/getting-started-core/#getting-started-with-aspnet-core
